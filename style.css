@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, hsl(23, 85%, 35%));
+    background: linear-gradient(135deg, hwb(17 89% 8%));
 
     min-height: 100vh;
 
